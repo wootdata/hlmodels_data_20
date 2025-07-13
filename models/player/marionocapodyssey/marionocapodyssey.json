@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -102,6 +103,7 @@
 			"type": 8
 		}
 	],
+	"date": 1679331237,
 	"events": [
 		{
 			"event": 2001,
@@ -211,7 +213,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5aecbd95f5faaa07a49f712cfccea935",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Escritorio\\MarioNoCapOdyssey\\MarioOdyssey.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

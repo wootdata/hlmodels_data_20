@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 919233478,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "01afb47ed59458ac30c99fdd26e6dd96",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/ken/ken.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

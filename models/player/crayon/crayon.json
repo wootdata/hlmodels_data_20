@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1356073200,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a39720046e04a82e12f542961669de47",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\pencil\\crayon\\crayon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -54,6 +55,7 @@
 			"type": 8
 		}
 	],
+	"date": 1619024200,
 	"events": [
 		{
 			"event": 2001,
@@ -163,7 +165,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5b6ff8195f1f13656f4e3497a4bc1e62",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bloodangel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
