@@ -1,0 +1,14 @@
+BoA Skin by [BoA]Mr_WhiTe [AKA SniPeRBUnNy]
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/Boa  folder. Then simply select the skin from the Multiplayer Customisation option within the game.
+=============================================
+THIS SKIN IS TO BE USED BY [BOA] MEMBERS ONLY!!!
+=============================================
+Skin Name        : BoA
+Author           : Mr WhiTe [Jordan Butters]
+E-Mail           : dollarbill@btinternet.com
+Website          : http://www.ukswclub.freeserve.co.uk
+Editors used     : MGI Photosuit '97, Wavelength Skin Editing Tutorial,                  Modviewer by Matthew Wolfe
+Additonal Thanks : 8 Ball [Aight Ball] for creating the best clan on                    Wireplay -The Brothers of Apokalypse. And also for                    sending me the skin tutorial.
+==============================================
+           Notes : This is my first skin so any feedback on it would be                    greatly appreciated.
