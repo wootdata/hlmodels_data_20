@@ -1,0 +1,5 @@
+Model taken from Fate/Extra PSP game
+
+Ported to Half-Life: SergioPoverony
+
+Modified to support team coloring by Xawari.
