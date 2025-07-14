@@ -175,6 +175,7 @@
 	"md5": "df4aab1de3180fb29dbc342200a2f38b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve\\models\\player\\Marvin\\Marvin.mdl",
 	"preview": false,
 	"readme": false,

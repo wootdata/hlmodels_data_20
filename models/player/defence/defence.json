@@ -175,6 +175,7 @@
 	"md5": "dacdc48020f12880a5dbc8353c1a85b3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Defence/Defence.mdl",
 	"preview": true,
 	"readme": false,

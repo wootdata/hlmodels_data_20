@@ -175,6 +175,7 @@
 	"md5": "b7e10aa52fc3c05064201f5b6fac5047",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/obi08/obi08.mdl",
 	"preview": true,
 	"readme": false,

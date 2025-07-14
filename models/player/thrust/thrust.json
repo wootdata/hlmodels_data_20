@@ -175,6 +175,7 @@
 	"md5": "fdca44e9b7c3d4689161f194c8ad7e04",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Thrust/Thrust.mdl",
 	"preview": true,
 	"readme": false,

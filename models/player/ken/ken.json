@@ -175,6 +175,7 @@
 	"md5": "01afb47ed59458ac30c99fdd26e6dd96",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/ken/ken.mdl",
 	"preview": true,
 	"readme": false,

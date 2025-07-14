@@ -175,6 +175,7 @@
 	"md5": "c96fcf7df2b6b5b6e7b656d972cccbd8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve\\models\\player\\judgedeath\\judgedeath.mdl",
 	"preview": true,
 	"readme": false,
