@@ -33,7 +33,7 @@
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1563216804,
+	"date": 920240380,
 	"events": [
 		{
 			"event": 2001,
@@ -177,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "39c914e3c566f9bc425577c2b51de483",
+	"md5": "05df0aacaa12a0fd4a563418d96d321a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"name": "player/Hgrunt/dawn.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -700,7 +700,7 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "Remap0_000_008_023.bmp",
+			"name": "null.bmp",
 			"width": 256
 		}
 	],

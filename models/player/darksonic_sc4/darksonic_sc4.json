@@ -14,56 +14,37 @@
 			"bone": 21,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "Bomberman(ref)",
-					"polys": 1680,
-					"verts": 864
+					"name": "sonic_nohands",
+					"polys": 2397,
+					"verts": 1283
 				}
 			],
-			"name": "body"
+			"name": "Sonic_the_Hegdehog"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
-			"end": 30.000000,
+			"bone": 13,
+			"end": 70.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 9,
-			"end": 30.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 10,
-			"end": 30.000000,
-			"index": 2,
-			"rest": 0,
-			"start": -30.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 11,
-			"end": 30.000000,
-			"index": 3,
-			"rest": 0,
-			"start": -30.000000,
+			"start": -70.000000,
 			"type": 8
 		}
 	],
-	"date": 1563148214,
+	"date": 1623342465,
 	"events": [
 		{
 			"event": 2001,
@@ -172,27 +153,27 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "4e73d69bce70bf8b3d36db1c59b33afc",
+	"md5": "00b0109e09322b408b4a33526894304d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "C:\\unzipped\\Bomberman\\Bomberman.mdl",
+	"name": "darksonic_sc4.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 31,
+			"frames": 72,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 41,
+			"frames": 72,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 72,
 			"name": "deep_idle"
 		}, 
 		{
@@ -202,7 +183,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -217,27 +198,27 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 101,
 			"name": "crouch_idle"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 320,
 			"name": "jump"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 37,
+			"frames": 150,
 			"name": "long_jump"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 27,
+			"frames": 80,
 			"name": "swim"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 32,
+			"frames": 101,
 			"name": "treadwater"
 		}, 
 		{
@@ -272,42 +253,42 @@
 		}, 
 		{
 			"fps": 22.000000,
-			"frames": 19,
+			"frames": 111,
 			"name": "die_simple"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 25,
+			"frames": 161,
 			"name": "die_backwards1"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 36,
+			"frames": 161,
 			"name": "die_backwards"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 19,
+			"frames": 111,
 			"name": "die_forwards"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 28,
+			"frames": 92,
 			"name": "headshot"
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 21,
+			"frames": 71,
 			"name": "die_spin"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 38,
+			"frames": 71,
 			"name": "gutshot"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
@@ -317,17 +298,17 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 11,
+			"frames": 13,
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_trip"
 		}, 
 		{
@@ -337,7 +318,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_trip"
 		}, 
 		{
@@ -347,202 +328,202 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 72,
 			"name": "ref_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_onehanded"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_onehanded"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_onehanded"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "ref_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_python"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 8,
+			"frames": 9,
 			"name": "crouch_shoot_python"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 101,
 			"name": "ref_aim_shotgun"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 7,
+			"frames": 101,
 			"name": "ref_shoot_shotgun"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_shotgun"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 18,
 			"name": "crouch_shoot_shotgun"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_gauss"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "ref_shoot_gauss"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_gauss"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 8,
+			"frames": 11,
 			"name": "crouch_shoot_gauss"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 101,
 			"name": "ref_aim_mp5"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 4,
+			"frames": 71,
 			"name": "ref_shoot_mp5"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_mp5"
 		}, 
 		{
 			"fps": 20.000000,
-			"frames": 3,
+			"frames": 8,
 			"name": "crouch_shoot_mp5"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "ref_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "crouch_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "ref_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 21,
 			"name": "crouch_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "crouch_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_hive"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 4,
+			"frames": 7,
 			"name": "ref_shoot_hive"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_hive"
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 5,
+			"frames": 7,
 			"name": "crouch_shoot_hive"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "ref_shoot_bow"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -566,7 +547,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 335136,
+	"size": 417284,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -662,21 +643,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "face.bmp",
-			"width": 236
+			"height": 127,
+			"name": "sonic_t128.bmp",
+			"width": 124
 		}, 
 		{
 			"flags": 0,
-			"height": 37,
-			"name": "Remap0_000_001_255.bmp",
-			"width": 36
+			"height": 64,
+			"name": "pohn_t.bmp",
+			"width": 64
 		}, 
 		{
 			"flags": 0,
-			"height": 189,
-			"name": "Remap0_000_255_255.bmp",
-			"width": 236
+			"height": 5,
+			"name": "cream_t128.bmp",
+			"width": 8
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Sonic_eyes.bmp",
+			"width": 44
 		}
 	],
 	"version": 10
