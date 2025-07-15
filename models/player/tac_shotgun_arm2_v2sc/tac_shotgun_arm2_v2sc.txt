@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_shotgun_armor2_v2
+Source Model Hash : 5e9942125f482da0b6bb1ce78a0893e4
+Source Model Date : 1661806881 (2022/08/29)
+
+Ported Model Name : tac_shotgun_arm2_v2sc
+Ported Model Hash : 81177597553c75760dd12948eea9579e
+Ported Model Date : 1752492378 (2025/07/14)

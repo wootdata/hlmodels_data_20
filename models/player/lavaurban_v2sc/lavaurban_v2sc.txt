@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lavaurban_v2
+Source Model Hash : 6657c0e99ee8a4203ee25e63909acdf6
+Source Model Date : 1540667992 (2018/10/27)
+
+Ported Model Name : lavaurban_v2sc
+Ported Model Hash : cf44bfc9d7928e7afc3f745c99e08b2d
+Ported Model Date : 1752491940 (2025/07/14)

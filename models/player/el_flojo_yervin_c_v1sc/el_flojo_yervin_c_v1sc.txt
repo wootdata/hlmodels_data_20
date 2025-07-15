@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : el_flojo_yervin_color
+Source Model Hash : c3a881bd64cb6afa3e19f09499df1711
+Source Model Date : 1690288858 (2023/07/25)
+
+Ported Model Name : el_flojo_yervin_c_v1sc
+Ported Model Hash : add16118338d9bf08753c580cf848b39
+Ported Model Date : 1752491633 (2025/07/14)

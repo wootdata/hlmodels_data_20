@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : walter2
+Source Model Hash : 4cbf84d95c58258bc8a7450f62b28a16
+Source Model Date : 1591341633 (2020/06/05)
+
+Ported Model Name : walter2_v1sc
+Ported Model Hash : c440fbb7758524e7466091948499d0c1
+Ported Model Date : 1752492501 (2025/07/14)

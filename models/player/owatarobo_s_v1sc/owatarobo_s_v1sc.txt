@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : owatarobo_s
+Source Model Hash : ee8c63cf297484b15caaeb5d415d797f
+Source Model Date : 1230582800 (2008/12/29)
+
+Ported Model Name : owatarobo_s_v1sc
+Ported Model Hash : f4a0fce7954446fd3df9a1423fc92263
+Ported Model Date : 1752492138 (2025/07/14)

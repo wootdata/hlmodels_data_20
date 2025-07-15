@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : prdel_v2
+Source Model Hash : cfe0afac45c2199b4be65dbb04f08ea0
+Source Model Date : 1583738871 (2020/03/09)
+
+Ported Model Name : prdel_v2sc
+Ported Model Hash : c5ab69f260e5b2777654732fe723f518
+Ported Model Date : 1752492167 (2025/07/14)

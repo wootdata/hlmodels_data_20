@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : brony_ninjablack_beta
+Source Model Hash : f591e60c4b84489b6c6ba7728935245e
+Source Model Date : 1410763377 (2014/09/14)
+
+Ported Model Name : brony_ninjablack_v1sc
+Ported Model Hash : 9443e5bee4021e93f5bb56ae3222db76
+Ported Model Date : 1752491448 (2025/07/14)

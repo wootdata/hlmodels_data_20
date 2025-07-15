@@ -1,0 +1,25 @@
+This was a hackjob and reskin down by, civilian soldier.
+
+Any comments please send to synthnal_ak47@hotmail.com
+
+Reskin, civilian soldier
+Hacjob, civilian soldier
+holster, read other read me
+Bones, DM
+Axe, Public enemy team, www.ironoak.de/PE/ or www.ironoak.de/BB/
+Anim Transfer, CyborgDragon
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ_zombie4
+Source Model Hash : 72397dc4de4d8b96a4d8a376a25970a6
+Source Model Date : 1266824242 (2010/02/21)
+
+Ported Model Name : civ_zombie4_v1sc
+Ported Model Hash : ab0a8202dcd8d6dd15c83451bc3b308f
+Ported Model Date : 1752491479 (2025/07/14)

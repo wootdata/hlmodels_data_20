@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mummie_v2
+Source Model Hash : 12692f1091c5f81406954c14fd78d90c
+Source Model Date : 1590891941 (2020/05/30)
+
+Ported Model Name : mummie_v2sc
+Ported Model Hash : c49ca3ec97fbc662c804bc7c16b1cd08
+Ported Model Date : 1752492048 (2025/07/14)

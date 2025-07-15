@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cofpolice3
+Source Model Hash : 76502f419cbbcd734ddb3536317b8848
+Source Model Date : 1455995466 (2016/02/20)
+
+Ported Model Name : cofpolice3_v1sc
+Ported Model Hash : 5bd9360f893aba72371873129ea0c45b
+Ported Model Date : 1752491502 (2025/07/14)

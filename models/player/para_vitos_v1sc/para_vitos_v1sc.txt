@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_vitos
+Source Model Hash : b2b9effa12606b34cb90edf3a66d228a
+Source Model Date : 1236727204 (2009/03/10)
+
+Ported Model Name : para_vitos_v1sc
+Ported Model Hash : 6e8b2f7c5be22644f8d2eaf04abb9116
+Ported Model Date : 1752492148 (2025/07/14)

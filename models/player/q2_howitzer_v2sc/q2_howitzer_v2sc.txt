@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_howitzer_v2
+Source Model Hash : 1b0676a11eeb6e1873b5df0089de29ea
+Source Model Date : 1583376396 (2020/03/04)
+
+Ported Model Name : q2_howitzer_v2sc
+Ported Model Hash : b855e370a4d064fa18cc96da663900a6
+Ported Model Date : 1752492176 (2025/07/14)

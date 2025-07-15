@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gagettora_v2
+Source Model Hash : aa571e73b08c0fc2aa1c20ea1d93c090
+Source Model Date : 1583878467 (2020/03/10)
+
+Ported Model Name : gagettora_v2sc
+Ported Model Hash : b5a2e6f85ac2887d6900d1d7a92dc60b
+Ported Model Date : 1752491669 (2025/07/14)

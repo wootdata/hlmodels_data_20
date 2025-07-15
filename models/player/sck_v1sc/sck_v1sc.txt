@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sck
+Source Model Hash : 420cf1e681076cf4454e70cf5ae6654c
+Source Model Date : 1375647074 (2013/08/04)
+
+Ported Model Name : sck_v1sc
+Ported Model Hash : adabfd783708a39b2bf5c37748a65cf2
+Ported Model Date : 1752492248 (2025/07/14)

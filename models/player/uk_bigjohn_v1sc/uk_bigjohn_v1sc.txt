@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_bigjohn
+Source Model Hash : 4560847cde0a05abe324afb1fee69f27
+Source Model Date : 1729204367 (2024/10/17)
+
+Ported Model Name : uk_bigjohn_v1sc
+Ported Model Hash : 9d01405ceed8171716e86f5784115142
+Ported Model Date : 1752492473 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usmc-medic
+Source Model Hash : 292b2e4a7aad81902e0db4ba98f16f17
+Source Model Date : 1259163586 (2009/11/25)
+
+Ported Model Name : usmc-medic_v1sc
+Ported Model Hash : 214ff3dfea563865512cc0c48664256b
+Ported Model Date : 1752492483 (2025/07/14)

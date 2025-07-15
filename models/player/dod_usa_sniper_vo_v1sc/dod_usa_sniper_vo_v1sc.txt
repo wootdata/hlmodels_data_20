@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_american_sniper_vo
+Source Model Hash : 3e5d4d9db0d4476ff27aacffe8f62f60
+Source Model Date : 1702150960 (2023/12/09)
+
+Ported Model Name : dod_usa_sniper_vo_v1sc
+Ported Model Hash : d009ab2ecac4716213c03df283aac660
+Ported Model Date : 1752491611 (2025/07/14)

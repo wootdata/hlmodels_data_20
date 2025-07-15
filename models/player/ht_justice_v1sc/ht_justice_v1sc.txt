@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ht_justice
+Source Model Hash : 2d7da41b89b26f7d2280a961ac17a4e6
+Source Model Date : 1678737241 (2023/03/13)
+
+Ported Model Name : ht_justice_v1sc
+Ported Model Hash : 8864e5d9c2eab2a4dc55dc55291b16de
+Ported Model Date : 1752491832 (2025/07/14)

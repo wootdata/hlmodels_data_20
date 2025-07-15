@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_snowman
+Source Model Hash : 0449df087ca8ef65d751beb72ef16490
+Source Model Date : 1411231635 (2014/09/20)
+
+Ported Model Name : dgf_snowman_v1sc
+Ported Model Hash : adb71fed4d12268335e00bfbf57e863b
+Ported Model Date : 1752491597 (2025/07/14)

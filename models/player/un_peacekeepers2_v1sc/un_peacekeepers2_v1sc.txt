@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : un_peacekeepers2
+Source Model Hash : 21168c41ac163a3ee2a60f6dbfb193ec
+Source Model Date : 1264168397 (2010/01/22)
+
+Ported Model Name : un_peacekeepers2_v1sc
+Ported Model Hash : c378fea54ae0446752734c3be79caa0a
+Ported Model Date : 1752492479 (2025/07/14)

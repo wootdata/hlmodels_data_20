@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : low_gonome_2b
+Source Model Hash : 5d919e24af2e215a788306c4cf7cdb74
+Source Model Date : 1717950176 (2024/06/09)
+
+Ported Model Name : low_gonome_2b_v1sc
+Ported Model Hash : 70d3d0c0b3f9e2db015365d15179584a
+Ported Model Date : 1752491964 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stanley
+Source Model Hash : 4c05d03283c5e9f1793d65654bba4e1d
+Source Model Date : 1748784470 (2025/06/01)
+
+Ported Model Name : stanley_v1sc
+Ported Model Hash : a69a7e198b80d120417b13b6e4b2b2ee
+Ported Model Date : 1752492342 (2025/07/14)

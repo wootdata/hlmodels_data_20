@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csneo_skull
+Source Model Hash : 116878f1ade69e6e6f08b9880f655a37
+Source Model Date : 1622925141 (2021/06/05)
+
+Ported Model Name : csneo_skull_v1sc
+Ported Model Hash : e901b7299125df88201da50d9e90e401
+Ported Model Date : 1752491551 (2025/07/14)

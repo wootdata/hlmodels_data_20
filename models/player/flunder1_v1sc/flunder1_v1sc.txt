@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : flunder1
+Source Model Hash : f62155a31349b53854f57532ee4a3bee
+Source Model Date : 1250839134 (2009/08/21)
+
+Ported Model Name : flunder1_v1sc
+Ported Model Hash : 94cb9a5628859c2fef4acbac664c3b25
+Ported Model Date : 1752491654 (2025/07/14)

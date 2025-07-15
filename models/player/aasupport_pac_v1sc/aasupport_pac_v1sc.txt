@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aasupport_pac
+Source Model Hash : 42e6905fa9f53762b30d76766c0e55dc
+Source Model Date : 1230551925 (2008/12/29)
+
+Ported Model Name : aasupport_pac_v1sc
+Ported Model Hash : 11394948ad9f547a302cba3008e0ce67
+Ported Model Date : 1752491328 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : diamond
+Source Model Hash : 095ced7d9d06336d01439b59b090862c
+Source Model Date : 1583295131 (2020/03/03)
+
+Ported Model Name : diamond_v1sc
+Ported Model Hash : 37230f9f06d3b95f5526c19996256641
+Ported Model Date : 1752491597 (2025/07/14)

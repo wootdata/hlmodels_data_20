@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tf2_scout_v2
+Source Model Hash : f0a1924d3cb7918033d594daa73b3944
+Source Model Date : 1350439984 (2012/10/16)
+
+Ported Model Name : tf2_scout_v2sc
+Ported Model Hash : d38a94cd549f8112738d465a9f26c1f9
+Ported Model Date : 1752492406 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wampa
+Source Model Hash : b14d9c3472202cdb625e4079ca03fd6d
+Source Model Date : 1591341756 (2020/06/05)
+
+Ported Model Name : wampa_v1sc
+Ported Model Hash : e151fd18a76d58802219e3f38cd4303a
+Ported Model Date : 1752492501 (2025/07/14)

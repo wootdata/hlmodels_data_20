@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bhdrich
+Source Model Hash : fee22f0ee44b330c578f8ac42266e533
+Source Model Date : 1230659080 (2008/12/30)
+
+Ported Model Name : bhdrich_v1sc
+Ported Model Hash : 4be4d4a66a64c276207946afbdc975f2
+Ported Model Date : 1752491426 (2025/07/14)

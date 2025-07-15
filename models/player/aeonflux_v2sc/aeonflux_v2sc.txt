@@ -1,0 +1,38 @@
+Aeon Flux -  Half-Life character  -  readme.txt
+March 26, 1999
+--------------------------------
+Character Stats:
+polys		708
+verts		364
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This character is based on the MTV Animation
+character Aeon Flux. Trying to fit Aeon's skinny
+and disproportionate body into the Valve character
+skeleton proved to be a difficult task. But I believe
+it turned out OK and the 3D model's body resembles the 
+body shape on the cartoon character.
+--------------------------------
+
+Steve Gehrke	
+sgehrke@inlandprod.com
+http://www.inlandprod.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aeonflux_v2
+Source Model Hash : 985339620b45d0783d68558e3e8659ba
+Source Model Date : 1590370408 (2020/05/24)
+
+Ported Model Name : aeonflux_v2sc
+Ported Model Hash : faeab66fe6298d62744595d5d23eb127
+Ported Model Date : 1752491334 (2025/07/14)

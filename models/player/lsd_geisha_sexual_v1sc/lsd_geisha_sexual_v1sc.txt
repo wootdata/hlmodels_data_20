@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lsd_minigeisha_sexual
+Source Model Hash : 60ec28df4ca6d59e4737a5b780303b92
+Source Model Date : 1653505062 (2022/05/25)
+
+Ported Model Name : lsd_geisha_sexual_v1sc
+Ported Model Hash : ae92c9a3b21c901f2eba037c1ad83dea
+Ported Model Date : 1752491967 (2025/07/14)

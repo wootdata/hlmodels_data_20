@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rick
+Source Model Hash : b7cb26f449abf72081e51d7452c8ba14
+Source Model Date : 1565115670 (2019/08/06)
+
+Ported Model Name : rick_v1sc
+Ported Model Hash : c74f4013367d90dcaebe308e24beb599
+Ported Model Date : 1752492216 (2025/07/14)

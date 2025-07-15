@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : starcraft
+Source Model Hash : 402bed5122b95cb1dd0f6837a1857ae9
+Source Model Date : 1269961638 (2010/03/30)
+
+Ported Model Name : starcraft_v1sc
+Ported Model Hash : 119663abfbe175c43deeeac650565022
+Ported Model Date : 1752492342 (2025/07/14)

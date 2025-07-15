@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spet4
+Source Model Hash : 9da0b6e873fd292303a1cd20dc2644b1
+Source Model Date : 1500481392 (2017/07/19)
+
+Ported Model Name : spet4_v1sc
+Ported Model Hash : e3328986cbae84673f6f0166b4686a54
+Ported Model Date : 1752492307 (2025/07/14)

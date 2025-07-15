@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darkakilez2017
+Source Model Hash : e1f72d679415030de4520ddd00b75dd0
+Source Model Date : 1233389670 (2009/01/31)
+
+Ported Model Name : darkakilez2017_v1sc
+Ported Model Hash : 36a7fef6f2536b20c6fc84bd687a76eb
+Ported Model Date : 1752491578 (2025/07/14)

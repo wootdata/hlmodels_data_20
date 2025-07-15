@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esqueletovenezolano
+Source Model Hash : 814e74ebb0f29bdeded215a2c01d21bf
+Source Model Date : 1660164527 (2022/08/10)
+
+Ported Model Name : esqueleto_ve_v1sc
+Ported Model Hash : fec4f3ef76449d1ce941a6f48cdf0c36
+Ported Model Date : 1752491638 (2025/07/14)

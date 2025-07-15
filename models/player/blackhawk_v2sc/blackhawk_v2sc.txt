@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackhawk_v2
+Source Model Hash : 37ee3f7eaec273ab59688c95f2e295a8
+Source Model Date : 1590560983 (2020/05/26)
+
+Ported Model Name : blackhawk_v2sc
+Ported Model Hash : 0a99458b7af49bff34ba444bdf59cd8a
+Ported Model Date : 1752491432 (2025/07/14)

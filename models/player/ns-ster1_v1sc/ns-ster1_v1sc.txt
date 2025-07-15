@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ns-ster1
+Source Model Hash : 06c010c0e3ca160fa3e00e7a91c10f81
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : ns-ster1_v1sc
+Ported Model Hash : b6e7e4ac0704ec36ce623259189cd32e
+Ported Model Date : 1752492103 (2025/07/14)

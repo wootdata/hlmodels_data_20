@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pinkstick
+Source Model Hash : e21159c186f344c1006f5bbdb1930f99
+Source Model Date : 1265794224 (2010/02/10)
+
+Ported Model Name : pinkstick_v1sc
+Ported Model Hash : d4a9574f115a29ae4698d3149f53fa04
+Ported Model Date : 1752492157 (2025/07/14)

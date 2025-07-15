@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gunmetal
+Source Model Hash : 16085d3434d2e924ad450f0464c268e0
+Source Model Date : 1506868862 (2017/10/01)
+
+Ported Model Name : gunmetal_v1sc
+Ported Model Hash : a222ebd2a5d2e731f6907c2d8283da48
+Ported Model Date : 1752491756 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gir
+Source Model Hash : 06a58a73370fb225ae841fd94977f6fb
+Source Model Date : 1583880077 (2020/03/10)
+
+Ported Model Name : gir_v1sc
+Ported Model Hash : 2e092af7a28b6a445d87017466094c39
+Ported Model Date : 1752491702 (2025/07/14)

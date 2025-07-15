@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : black_templar
+Source Model Hash : 40335c9d2917c151646358e56fdfd8c0
+Source Model Date : 1597040725 (2020/08/09)
+
+Ported Model Name : black_templar_v1sc
+Ported Model Hash : ba1fa1a4b6dee6ead330785db7ea90a3
+Ported Model Date : 1752491435 (2025/07/14)

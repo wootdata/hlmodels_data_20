@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_touhou_koa_devil
+Source Model Hash : 68491b5db360174df59c8836ee966a2e
+Source Model Date : 1553442092 (2019/03/24)
+
+Ported Model Name : 2d_2hu_koa_devil_v1sc
+Ported Model Hash : fbd5caf5c4268a13d8c4a7049ebc2128
+Ported Model Date : 1752491319 (2025/07/14)

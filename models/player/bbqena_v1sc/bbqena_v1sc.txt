@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bbqena
+Source Model Hash : 415584f6ff008f6ef558fa00ad578b47
+Source Model Date : 1743980072 (2025/04/06)
+
+Ported Model Name : bbqena_v1sc
+Ported Model Hash : c5508244ab6dfd48fa9fd426f8dd7c48
+Ported Model Date : 1752491420 (2025/07/14)

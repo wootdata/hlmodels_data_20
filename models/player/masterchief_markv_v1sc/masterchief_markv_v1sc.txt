@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : masterchief_markv
+Source Model Hash : 453f903b5e7cd284c2250276efb33030
+Source Model Date : 1688346375 (2023/07/02)
+
+Ported Model Name : masterchief_markv_v1sc
+Ported Model Hash : 7c3e6b165b40e61401d281cfd1922445
+Ported Model Date : 1752491992 (2025/07/14)

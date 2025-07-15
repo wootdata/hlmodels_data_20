@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smijv4
+Source Model Hash : c7acd8dc8bdee7d189d3880b053fbea7
+Source Model Date : 1452288797 (2016/01/08)
+
+Ported Model Name : smijv4_v1sc
+Ported Model Hash : 0f2687aa20c5ffdfc250cc87b6960d6f
+Ported Model Date : 1752492283 (2025/07/14)

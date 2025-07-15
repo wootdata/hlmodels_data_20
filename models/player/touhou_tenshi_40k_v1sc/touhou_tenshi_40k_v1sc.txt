@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_tenshi_40k
+Source Model Hash : 27e53d6a7a574ed907a927006e20b459
+Source Model Date : 1583638902 (2020/03/07)
+
+Ported Model Name : touhou_tenshi_40k_v1sc
+Ported Model Hash : f84a6d6474fa03a7427eb1726c717906
+Ported Model Date : 1752492450 (2025/07/14)

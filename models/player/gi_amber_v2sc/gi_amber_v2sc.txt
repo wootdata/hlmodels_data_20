@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_amber_v2
+Source Model Hash : 2addb446fd78b6caa4a879d3bd299680
+Source Model Date : 1700147619 (2023/11/16)
+
+Ported Model Name : gi_amber_v2sc
+Ported Model Hash : a3fa8116b50061d862a8e2523a0df9e0
+Ported Model Date : 1752491704 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darksonic_sc4
+Source Model Hash : ec73ba8fc2a778cd558f65722d519fbd
+Source Model Date : 1386967778 (2013/12/13)
+
+Ported Model Name : darksonic_sc4_v1sc
+Ported Model Hash : b9d54c5c3ae54e2f9eacf616e4298d39
+Ported Model Date : 1752491580 (2025/07/14)

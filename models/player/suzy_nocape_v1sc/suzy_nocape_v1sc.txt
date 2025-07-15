@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : suzy_nocape
+Source Model Hash : 12d1d77195bc98cacee6ad8129d95911
+Source Model Date : 1270019843 (2010/03/31)
+
+Ported Model Name : suzy_nocape_v1sc
+Ported Model Hash : 9cc05e054bc0f3dd8a690366b9963110
+Ported Model Date : 1752492352 (2025/07/14)

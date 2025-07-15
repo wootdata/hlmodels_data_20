@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : luigimansion
+Source Model Hash : d73da3c6b684bcb4e6be0b985393ba5c
+Source Model Date : 1681838370 (2023/04/18)
+
+Ported Model Name : luigimansion_v1sc
+Ported Model Hash : 6e0f1cc608d04950bebce4eac1255e31
+Ported Model Date : 1752491973 (2025/07/14)

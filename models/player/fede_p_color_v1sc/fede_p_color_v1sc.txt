@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fede_p_color
+Source Model Hash : beaac4e7b2a26c9c3c05a05042ad4175
+Source Model Date : 1741031246 (2025/03/03)
+
+Ported Model Name : fede_p_color_v1sc
+Ported Model Hash : dd7d458210daa8c0f0b06538a16825cc
+Ported Model Date : 1752491647 (2025/07/14)

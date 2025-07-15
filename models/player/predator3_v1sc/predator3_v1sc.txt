@@ -1,0 +1,28 @@
+This is my third Predator but this time its a model or a edit of the
+previous model i used
+The skin itself has been tweaked and the head, body armour, arms
+and legs have been resized for maxiumum likeness
+Go to my new URL for the best skins made by me, Marquis, ACiD and all the
+great skinners and if not come to have a look anyway we have loads of 
+content
+Http://www.psykotech.com/doacp/
+You won't be dissapointed and watch out for my next release!! Maybe a 
+fully modelled Predator (I'm learning Milkshape)!!
+Email me with your comments and suggestions!
+Predator@area2471.freeserve.co.uk
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : predator3
+Source Model Hash : 19d3b98bce1e62ed615bcf5fc198a974
+Source Model Date : 1591041681 (2020/06/01)
+
+Ported Model Name : predator3_v1sc
+Ported Model Hash : cf048f8db7b0bdb9d36200e8b8a3e4b5
+Ported Model Date : 1752492167 (2025/07/14)

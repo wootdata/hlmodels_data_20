@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legends_wizard_v2
+Source Model Hash : b93fc08c0a8e1e715e39afc4ddc15c0c
+Source Model Date : 1583651832 (2020/03/07)
+
+Ported Model Name : legends_wizard_v2sc
+Ported Model Hash : 7441a2f9d141fe84881914a22774b3ae
+Ported Model Date : 1752491945 (2025/07/14)

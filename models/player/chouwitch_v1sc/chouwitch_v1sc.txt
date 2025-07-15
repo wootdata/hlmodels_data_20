@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chouwitch
+Source Model Hash : 1b61159a7487dba761d0760d000085ed
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : chouwitch_v1sc
+Ported Model Hash : 2ed6eb4a7089f2aacd46c0a172220be0
+Ported Model Date : 1752491473 (2025/07/14)

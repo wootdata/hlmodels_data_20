@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : morimaki
+Source Model Hash : baa5d2fc86fc2d3d4f70a95387468543
+Source Model Date : 1266511271 (2010/02/18)
+
+Ported Model Name : morimaki_v1sc
+Ported Model Hash : c6cf3060a3fbe44af33d1b07e5ab5784
+Ported Model Date : 1752492042 (2025/07/14)

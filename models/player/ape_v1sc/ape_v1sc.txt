@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ape
+Source Model Hash : 8e95572b7c9dc79821f5bf4fe01a762b
+Source Model Date : 1262615738 (2010/01/04)
+
+Ported Model Name : ape_v1sc
+Ported Model Hash : e50fb222afd99a39852251710b17d232
+Ported Model Date : 1752491364 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : david_l_female
+Source Model Hash : 6c698e9bfe572326674d69f132096b4e
+Source Model Date : 1457037774 (2016/03/03)
+
+Ported Model Name : david_l_female_v1sc
+Ported Model Hash : 6aad52039b7a8810a214b1403e859584
+Ported Model Date : 1752491583 (2025/07/14)

@@ -1,0 +1,23 @@
+Lurid Svencoop 3.0 playermodel
+HIT's Hevmodel
+Axe - ME (looked at an axe from PVK to get it right)
+Texture on the Axe - Me =D
+Tinted by me...
+
+
+I hate doing readme's...
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lurid
+Source Model Hash : 46eaeabe7cc17986c6a9216607fb189a
+Source Model Date : 1429536752 (2015/04/20)
+
+Ported Model Name : lurid_v1sc
+Ported Model Hash : ea286deae5ae67af349235e084ddc5d3
+Ported Model Date : 1752491975 (2025/07/14)

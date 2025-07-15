@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonicf_classic_c_v3
+Source Model Hash : 760177b6b3e2f8eee30fd463fe6a536f
+Source Model Date : 1587308692 (2020/04/19)
+
+Ported Model Name : sonicf_classic_c_v3sc
+Ported Model Hash : cdd070cdb8bbc8eed9ac5dd2f0f60ca9
+Ported Model Date : 1752492295 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dc_shadow_v2
+Source Model Hash : 502ac2ad65289eac383631e4fbd51c05
+Source Model Date : 1583565611 (2020/03/06)
+
+Ported Model Name : dc_shadow_v2sc
+Ported Model Hash : c8297e96d96ed6a3738cc1b7c2ee6bc6
+Ported Model Date : 1752491591 (2025/07/14)

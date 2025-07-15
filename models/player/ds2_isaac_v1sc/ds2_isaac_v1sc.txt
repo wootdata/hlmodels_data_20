@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ds2_isaac
+Source Model Hash : 4ca6f197d9f220faddd0d6b7e0fd50ab
+Source Model Date : 1338811560 (2012/06/04)
+
+Ported Model Name : ds2_isaac_v1sc
+Ported Model Hash : a66bb89f77e25034c683ccb51f726e82
+Ported Model Date : 1752491624 (2025/07/14)

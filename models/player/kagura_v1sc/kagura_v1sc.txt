@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kagura
+Source Model Hash : 0ed9eff61bb156ef7de769b68fd762bb
+Source Model Date : 1711068112 (2024/03/21)
+
+Ported Model Name : kagura_v1sc
+Ported Model Hash : 8f69f4dab41dac33090ae8a5863fda50
+Ported Model Date : 1752491868 (2025/07/14)

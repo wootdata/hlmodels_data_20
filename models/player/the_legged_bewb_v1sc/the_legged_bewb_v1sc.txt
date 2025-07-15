@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : the_legged_bewb
+Source Model Hash : 1db56579f62146f932f6a4c04ce6fcab
+Source Model Date : 1606425308 (2020/11/26)
+
+Ported Model Name : the_legged_bewb_v1sc
+Ported Model Hash : d42d21038d85c0a993067dc041fc0c3d
+Ported Model Date : 1752492413 (2025/07/14)

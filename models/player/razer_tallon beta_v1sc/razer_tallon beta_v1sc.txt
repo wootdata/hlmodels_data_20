@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : razer_tallon beta
+Source Model Hash : bfafabd5bbe809e4853344fde67c0158
+Source Model Date : 1579695627 (2020/01/22)
+
+Ported Model Name : razer_tallon beta_v1sc
+Ported Model Hash : c5be6bb2858e628d92e0a2a848c94f3d
+Ported Model Date : 1752492189 (2025/07/14)

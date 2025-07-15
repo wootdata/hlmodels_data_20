@@ -1,0 +1,22 @@
+Name of model: HL Grunt (Shephard)
+Model filename:grunt
+Model Type: Player (SC3 animated) 
+Drawn Polys: 3,090
+Original Mesh: Ambient.Impact
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : grunt
+Source Model Hash : 932dac8b74b75c1bed91b23d9386ea76
+Source Model Date : 1454422906 (2016/02/02)
+
+Ported Model Name : grunt_v1sc
+Ported Model Hash : f3869694e307b177089d5749780b51e4
+Ported Model Date : 1752491742 (2025/07/14)

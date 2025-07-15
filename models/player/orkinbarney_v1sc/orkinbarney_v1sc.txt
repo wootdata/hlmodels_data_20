@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : orkinbarney
+Source Model Hash : 1049d38e239dafae5e5d9befa4adee10
+Source Model Date : 1264765005 (2010/01/29)
+
+Ported Model Name : orkinbarney_v1sc
+Ported Model Hash : 6efe8c1cc1996f4d308abd5a720e3c88
+Ported Model Date : 1752492131 (2025/07/14)

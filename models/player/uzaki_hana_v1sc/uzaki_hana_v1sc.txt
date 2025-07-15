@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uzaki_hana
+Source Model Hash : 5ad3695c9bcff058fa8ec58b29bc6636
+Source Model Date : 1639664270 (2021/12/16)
+
+Ported Model Name : uzaki_hana_v1sc
+Ported Model Hash : 7c31f5f1a0b9f425aa1820edc564a696
+Ported Model Date : 1752492486 (2025/07/14)

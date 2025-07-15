@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hannah_montana
+Source Model Hash : 1977ed4f543482c39b5bb604ee58b301
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : hannah_montana_v1sc
+Ported Model Hash : b676eb3f82dd432243197f6130f01a8b
+Ported Model Date : 1752491767 (2025/07/14)

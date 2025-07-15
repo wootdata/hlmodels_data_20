@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : malachous
+Source Model Hash : 0a54a2d3e6002e1ec42a99d26d1c6af2
+Source Model Date : 1325221921 (2011/12/29)
+
+Ported Model Name : malachous_v1sc
+Ported Model Hash : d3323f4acc4f1bc43caf8b152bdfb64c
+Ported Model Date : 1752491983 (2025/07/14)

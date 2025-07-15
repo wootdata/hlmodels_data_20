@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stu
+Source Model Hash : bc0411e64a2fb55dc586e7e8943ab26f
+Source Model Date : 1591330054 (2020/06/04)
+
+Ported Model Name : stu_v1sc
+Ported Model Hash : 8249cc99c7fed1988583bb400f1ba21d
+Ported Model Date : 1752492349 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spaceghost_v2
+Source Model Hash : e636913b40193fd9c55d17854c39d6c3
+Source Model Date : 1583371723 (2020/03/04)
+
+Ported Model Name : spaceghost_v2sc
+Ported Model Hash : b3533360bab779e2a861800a906d5965
+Ported Model Date : 1752492304 (2025/07/14)

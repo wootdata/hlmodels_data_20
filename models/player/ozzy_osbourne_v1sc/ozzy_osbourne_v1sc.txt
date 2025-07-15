@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ozzy_osbourne
+Source Model Hash : c58e24acca6c3d89b2625fe2f5002ed8
+Source Model Date : 1637014072 (2021/11/15)
+
+Ported Model Name : ozzy_osbourne_v1sc
+Ported Model Hash : c331fe3d507d3c3f2bb4e34ee7401c33
+Ported Model Date : 1752492139 (2025/07/14)

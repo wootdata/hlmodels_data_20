@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_bills
+Source Model Hash : 2800bb372d7930b9ec74ad106f1056c3
+Source Model Date : 1579695893 (2020/01/22)
+
+Ported Model Name : da_bills_v1sc
+Ported Model Hash : 70d8e096b6104226df2d58554df8be77
+Ported Model Date : 1752491584 (2025/07/14)

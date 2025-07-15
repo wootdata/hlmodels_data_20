@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ugg_goose_v2
+Source Model Hash : 38cf6a3cf115411c15d75d4ea38164e2
+Source Model Date : 1695756283 (2023/09/26)
+
+Ported Model Name : ugg_goose_v2sc
+Ported Model Hash : 1931c8b5e439d1cb383d77813057a9f4
+Ported Model Date : 1752492472 (2025/07/14)

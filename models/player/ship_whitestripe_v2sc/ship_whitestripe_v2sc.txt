@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ship_whitestripe_v2
+Source Model Hash : 2ae7166a410fa37007671f83950331cd
+Source Model Date : 1579696383 (2020/01/22)
+
+Ported Model Name : ship_whitestripe_v2sc
+Ported Model Hash : a09278dcd15cc61d6b0402590481f06a
+Ported Model Date : 1752492272 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vanska
+Source Model Hash : 77b6cd051cfc45c27edeaed1376c3b77
+Source Model Date : 1505051706 (2017/09/10)
+
+Ported Model Name : vanska_v1sc
+Ported Model Hash : d3f8b9453bc4fab9dfaedea69b43e8d0
+Ported Model Date : 1752492488 (2025/07/14)

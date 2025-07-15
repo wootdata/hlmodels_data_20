@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gurlukovichsoldier
+Source Model Hash : abac15808ac4cb994b8e26ceb4d18ee8
+Source Model Date : 1472530846 (2016/08/29)
+
+Ported Model Name : gurlukovichgi_v1sc
+Ported Model Hash : 561a34c9ddfd3e8f3f32b182db13d134
+Ported Model Date : 1752491756 (2025/07/14)

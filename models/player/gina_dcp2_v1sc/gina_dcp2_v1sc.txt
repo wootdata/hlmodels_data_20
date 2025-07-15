@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gina_dcp2
+Source Model Hash : 7dfc2d305c421727673ed8c36d8b483a
+Source Model Date : 1604344174 (2020/11/02)
+
+Ported Model Name : gina_dcp2_v1sc
+Ported Model Hash : 6e9f5aef9eb60017699c675a962aa0af
+Ported Model Date : 1752491701 (2025/07/14)

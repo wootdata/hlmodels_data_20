@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboac_rampage2_p2_v2
+Source Model Hash : cb1e3c7c1d35eb60e5574bf6d53e34fe
+Source Model Date : 1605868320 (2020/11/20)
+
+Ported Model Name : uboac_rampage2_p2_v2sc
+Ported Model Hash : b63eee84762d19604e1e9e44310878ce
+Ported Model Date : 1752492469 (2025/07/14)

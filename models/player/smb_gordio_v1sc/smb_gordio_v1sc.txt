@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smb_gordio
+Source Model Hash : 8bd69b2bf4e8767965f1411c9a205251
+Source Model Date : 1269872305 (2010/03/29)
+
+Ported Model Name : smb_gordio_v1sc
+Ported Model Hash : e47f675fbcf1c95b9dd60698fb9ac81c
+Ported Model Date : 1752492282 (2025/07/14)

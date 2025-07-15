@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : capturedgina
+Source Model Hash : 4ebaddb3114618349521d51d7883e3bc
+Source Model Date : 1485595459 (2017/01/28)
+
+Ported Model Name : capturedgina_v1sc
+Ported Model Hash : bddfd5fda6f8d7d27f1b7a6bfa37ec94
+Ported Model Date : 1752491460 (2025/07/14)

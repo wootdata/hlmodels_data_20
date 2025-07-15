@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mulder
+Source Model Hash : ecace4889ba052296048802a35238b67
+Source Model Date : 1590890465 (2020/05/30)
+
+Ported Model Name : mulder_v1sc
+Ported Model Hash : b18217e2f528cbb3baa39d0a3ca66606
+Ported Model Date : 1752492047 (2025/07/14)

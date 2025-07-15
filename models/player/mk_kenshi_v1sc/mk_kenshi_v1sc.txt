@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk_kenshi
+Source Model Hash : 7e0e56f6a0a51a1a613f911840a12836
+Source Model Date : 1455421638 (2016/02/13)
+
+Ported Model Name : mk_kenshi_v1sc
+Ported Model Hash : f9bc97651a83cbae0da56505bf29a5f3
+Ported Model Date : 1752492032 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sealgreen_v2
+Source Model Hash : 06a950b7aee03a46f5e2587bbdc9a627
+Source Model Date : 1583907176 (2020/03/10)
+
+Ported Model Name : sealgreen_v2sc
+Ported Model Hash : ca4f0bf866dcb210c0c8f7f2d361ddd8
+Ported Model Date : 1752492256 (2025/07/14)

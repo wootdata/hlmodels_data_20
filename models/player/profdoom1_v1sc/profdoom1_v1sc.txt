@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : profdoom1
+Source Model Hash : 060c35240e99d2d9a97999c5576c3db3
+Source Model Date : 1500481360 (2017/07/19)
+
+Ported Model Name : profdoom1_v1sc
+Ported Model Hash : 1944396cd75fe0a683542bd46ece0e9d
+Ported Model Date : 1752492169 (2025/07/14)

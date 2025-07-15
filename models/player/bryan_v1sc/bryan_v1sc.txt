@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bryan
+Source Model Hash : bc4588181471aace4deaa14651fb8558
+Source Model Date : 1268072123 (2010/03/08)
+
+Ported Model Name : bryan_v1sc
+Ported Model Hash : 247f4429c8b72222e3b574fe5b044fc7
+Ported Model Date : 1752491450 (2025/07/14)

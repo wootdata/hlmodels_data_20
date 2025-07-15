@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : myochin
+Source Model Hash : af3830be284cf41454e31cfc3ef60378
+Source Model Date : 1266666864 (2010/02/20)
+
+Ported Model Name : myochin_v1sc
+Ported Model Hash : 5bfd428550a940dd3aabae8d4f13cd33
+Ported Model Date : 1752492057 (2025/07/14)

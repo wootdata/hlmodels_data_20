@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboa_pizza_take2
+Source Model Hash : 8ecd87f9bcf57a3c8ecde14f4e57c0d0
+Source Model Date : 1500482506 (2017/07/19)
+
+Ported Model Name : uboa_pizza_take2_v1sc
+Ported Model Hash : 4fbf397d1fbf653827af7420e419015b
+Ported Model Date : 1752492470 (2025/07/14)

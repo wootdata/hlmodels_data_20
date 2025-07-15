@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : job_ap
+Source Model Hash : dcce729ea3ceb9c4c48bde8238316536
+Source Model Date : 1752098838 (2025/07/09)
+
+Ported Model Name : job_ap_v1sc
+Ported Model Hash : 8b8a56c6a9bc7376e6c762709ba4ddb4
+Ported Model Date : 1752491863 (2025/07/14)

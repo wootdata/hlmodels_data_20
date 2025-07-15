@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : femhostage01
+Source Model Hash : 50780da433f523db768b9a62f63d1b2f
+Source Model Date : 1263578321 (2010/01/15)
+
+Ported Model Name : femhostage01_v1sc
+Ported Model Hash : fd473b317be83a72844177ed01a705db
+Ported Model Date : 1752491648 (2025/07/14)

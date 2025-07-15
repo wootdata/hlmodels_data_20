@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_gingerbreadman
+Source Model Hash : c7e12c7c6faa981108f85d86f210a133
+Source Model Date : 1411299281 (2014/09/21)
+
+Ported Model Name : dgf_gingerbread_v1sc
+Ported Model Hash : 73d8d7f89d2d4e93c665b3016250fe4d
+Ported Model Date : 1752491596 (2025/07/14)

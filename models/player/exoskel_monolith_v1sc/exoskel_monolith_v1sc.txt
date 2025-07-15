@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : exoskeleton_monolith
+Source Model Hash : 8340ddeebd97d65f54b3b813d3d5e490
+Source Model Date : 1239080362 (2009/04/06)
+
+Ported Model Name : exoskel_monolith_v1sc
+Ported Model Hash : 78d75114df782bb313f5fe911dabd84a
+Ported Model Date : 1752491641 (2025/07/14)

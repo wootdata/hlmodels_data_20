@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : klonoa
+Source Model Hash : 1d984a140bbb687cb326bc5748daebb7
+Source Model Date : 1553256011 (2019/03/22)
+
+Ported Model Name : klonoa_v1sc
+Ported Model Hash : 1d457b8d67e3aec7197f0fda17a62fa7
+Ported Model Date : 1752491896 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_stalker_duty_exo
+Source Model Hash : bb51d51a2527a64b808b60c1dff6d5b5
+Source Model Date : 1553587120 (2019/03/26)
+
+Ported Model Name : 2d_stlkr_duty_exo_v1sc
+Ported Model Hash : 3c6f0cec471dc4043bb2661d68ad1e65
+Ported Model Date : 1752491318 (2025/07/14)

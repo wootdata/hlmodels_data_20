@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xanob
+Source Model Hash : da231e2c6c3eab70b6ed92ba8b1a6f74
+Source Model Date : 1264531504 (2010/01/26)
+
+Ported Model Name : xanob_v1sc
+Ported Model Hash : 0e97a8be1705f3989af693444d26ab5c
+Ported Model Date : 1752492515 (2025/07/14)
