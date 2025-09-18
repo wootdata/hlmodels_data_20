@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zzz_corin_wickes_alt
+Source Model Hash : f737d48d585241dd257bd42a35cd0d7b
+Source Model Date : 1755530677 (2025/08/18)
+
+Ported Model Name : zzz_corin_wickes2_v1sc
+Ported Model Hash : 5b0c3c5a0970bd63327e1017aeeb0883
+Ported Model Date : 1758225774 (2025/09/18)
