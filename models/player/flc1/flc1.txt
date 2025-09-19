@@ -1,0 +1,22 @@
+        ----====<<<<[[[[FUN LOVIN' CRIMINALS]]]]>>>>====----
+
+Clan-Model fuer Half-Life.
+
+
+[FLC]Fun lovin' criminals
+http://www.flc-clan.de.cx
+
+
+Die Dateien flc1.bmp und flc1.mdl muessen beide in folgendes
+Verzeichnis kopiert werden:
+
+        Half-Life\valve\models\player\flc1\
+
+Auswaehlen kann man das Model unter den Multiplayer-Optionen oder
+im Spiel in der Konsole mit: 
+
+model flc1
+
+
+PS: Das Model muss auf dem Server installiert sein, wenn alle
+    Spieler es sehen sollen.

@@ -1,0 +1,24 @@
+Swat Guy for Half-Life
+-----------------------------------------------------
+Author:       	Frederik larsson (3xsistenZ)
+
+Model Name:   	SwatGuy
+Version:       	2.0
+Relaese Date:  	28 April 2000
+Files:		swatguy.mdl swatguy.bmp swatguy.txt
+Polygons:     	630
+Vertices:     	334
+Team Colors:   	No
+Animations:   	Standard Animations
+Programs Used:	3D Studio MAX R2.5, Photoshop 5, Milkshape 3D
+
+Description:
+This is a model of a Navy Seal
+
+Installation:
+Put all files into valve/models/player/SwatGuy
+
+Distribution:
+The SwatGuy model can be distributed freely as long as this text file is included.
+---------------------------------------------
+E-mail:	   	3xsistenZ:	fzas@usa.net

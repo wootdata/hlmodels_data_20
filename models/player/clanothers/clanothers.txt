@@ -1,0 +1,17 @@
+Skinner: SlimReapeR
+Skin Name: Clan [OTHERS]
+Model Used: Slave by Fey
+
+
+Installation of Plugin
+This skin is only to be used by members of the [OTHERS] Clan. Install this skin to 
+see them play!
+
+Create a folder called clanothers in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+
+
