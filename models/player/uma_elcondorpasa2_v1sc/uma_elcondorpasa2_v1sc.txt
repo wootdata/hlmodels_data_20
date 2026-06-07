@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uma_elcondorpasa2
+Source Model Hash : 8807ad3dbe1389cf49947bc88c6a3891
+Source Model Date : 1777849355 (2026/05/03)
+
+Ported Model Name : uma_elcondorpasa2_v1sc
+Ported Model Hash : 023ce48ab2260f5056249901e691d81a
+Ported Model Date : 1780823049 (2026/06/07)

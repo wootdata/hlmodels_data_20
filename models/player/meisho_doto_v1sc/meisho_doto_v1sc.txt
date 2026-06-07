@@ -1,0 +1,26 @@
+Place under Sven Co-op/svencoop_addon/models/player
+File hierarchy should look like this:
+
+svencoop_addon
+>>models
+>> >>player
+>> >> >>meisho_doto
+>> >> >> >>meisho_doto.bmp
+>> >> >> >>meisho_doto.mdl
+
+Thanks for downloading!!!!! :D
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : meisho_doto
+Source Model Hash : fec083d5eddce21959572a9392dbd3aa
+Source Model Date : 1775665204 (2026/04/08)
+
+Ported Model Name : meisho_doto_v1sc
+Ported Model Hash : dff5e16c84dfc5de74b7a662b1381927
+Ported Model Date : 1780823044 (2026/06/07)

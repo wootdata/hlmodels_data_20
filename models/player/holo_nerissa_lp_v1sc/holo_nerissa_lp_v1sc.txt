@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_nerissa_lowpoly
+Source Model Hash : 3aeaf36e87a88fd76977f31ccf6a6255
+Source Model Date : 1734512714 (2024/12/18)
+
+Ported Model Name : holo_nerissa_lp_v1sc
+Ported Model Hash : a698aebe4ed139ea9287bc713bee0b9f
+Ported Model Date : 1780823028 (2026/06/07)
